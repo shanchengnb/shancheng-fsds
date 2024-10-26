@@ -1,0 +1,3 @@
+[submodule "dianshang"]
+	path = dianshang
+	url = https://github.com/username/dianshang.git
